@@ -10,7 +10,7 @@
 ## 3. My new idea
 &nbsp;&nbsp;&nbsp;&nbsp;Scene 4 is where the user can control the robot. The bubbleRob tutorial code came with a lot of bells and whistles added in, one of those being a speed slider. I decided to change that speed slider into a steering wheel and to allow the user to tell bubbleRob what to do. This new robot's reverse function is so easy to use and can get the robot out of the tightest spots. 
 
-&nbsp;&nbsp;&nbsp;&nbsp;I also recorded a video to see each of the scenes in action (here.)[https://youtu.be/EHy5CupTcU0]
+&nbsp;&nbsp;&nbsp;&nbsp;I also recorded a video to see each of the scenes in action [here.](https://youtu.be/EHy5CupTcU0)
 
 ## 4. Looking ahead
 &nbsp;&nbsp;&nbsp;&nbsp;One thing I'd like to do is give the robot in scene 3 an override funtion so that it can be taken over and controlled if the need arose. Another feature I'd like to add would be a speed slider to the controlled robot. It would be really difficult to control with only a mouse, but it would be a blast to try out.
